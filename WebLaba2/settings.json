@@ -1,0 +1,14 @@
+{
+    "London": {
+        "size": 40000,
+        "number_of_residents": 400000000
+    },
+    "Moscow": {
+        "size": 38000,
+        "number_of_residents": 500000000
+    },
+    "Tokio":{
+        "temperature_today": 30000,
+        "weather": 80000000
+    }
+}
